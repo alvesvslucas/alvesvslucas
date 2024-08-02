@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Web iniciante, sempre disposto a ajudar quem precisar.
 
-- 💬 Pergunte-me sobre **HTML, CSS,**
+- 💬 Pergunte-me sobre **HTML, CSS, JS**
 
 - ⚡ Curiosidade **Olho 😜**
 
