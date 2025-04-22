@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/da/73/a5/da73a5331b8e6b616c0aff7843df8510.png" alt="Lucas Alves" width="120" style="border-radius:50%;" />
   <h1>Olá, eu sou o Lucas Alves 👋</h1>
-  <p>🔭 Desenvolvedor Web iniciante | HTML • CSS • JavaScript | Sempre aprendendo e ajudando</p>
+  <p>🔭 Desenvolvedor web | Frontend Developer • Git • GitHub • SQL • Python • HTML5 • CSS3 • JavaScript • PHP • WordPress • Bootstrap  • Sempre aprendendo e ajudando</p>
 </div>
 
 ---
