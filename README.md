@@ -1,60 +1,65 @@
-<img align="right" height="590em" src="https://i.pinimg.com/originals/da/73/a5/da73a5331b8e6b616c0aff7843df8510.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Lucas Alves</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvesvslucas&color=yellow" alt="Profile views" /> </p>
+<!-- README.md -->
 
-- 🔥 Desenvolvedor Web iniciante, sempre disposto a ajudar quem precisar.
+<div align="center">
+  <img src="https://i.pinimg.com/originals/da/73/a5/da73a5331b8e6b616c0aff7843df8510.png" alt="Lucas Alves" width="120" style="border-radius:50%;" />
+  <h1>Olá, eu sou o Lucas Alves 👋</h1>
+  <p>🔭 Desenvolvedor Web iniciante | HTML • CSS • JavaScript | Sempre aprendendo e ajudando</p>
+</div>
 
-- 💬 Pergunte-me sobre **HTML, CSS, JS**
+---
 
-- ⚡ Curiosidade **Olho 😜**
+## 📑 Sobre Mim
 
-<!--
+- 🎓 Estudante de desenvolvimento web com foco em front‑end  
+- 🌱 Atualmente aprofundando conhecimentos em JavaScript moderno (ES6+) e responsividade  
+- 💬 Gosto de compartilhar dicas e ajudar a comunidade em fóruns e projetos open‑source  
 
-<br><br>
+---
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<br><br>
+---
 
-## ⚙️ &nbsp;GitHub Analytics
+## 🚧 Projetos em Destaque
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
+| Projeto                                             | Descrição                               | Link                      |
+| --------------------------------------------------- | --------------------------------------- | ------------------------- |
+| **💬 Chatbot WhatsApp**                             | Integração de API para atendimento      | [Ver repositório](#)      |
+| **⚡ Portfólio Responsivo**                         | Site pessoal em HTML/CSS/JS             | [Ver demo](#)             |
+| **📝 Formulário Dinâmico**                          | Validação e envio com JavaScript puro   | [Ver código](#)           |
 
-<br><br><br><br>
+*Veja mais em [meu GitHub](https://github.com/alvesvslucas)*
 
-## Contact
+---
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/alvesvslucas" target="_blank">
-  <img align="center" src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/ped.png" alt="codepen"/>
-</a>
-<a href="https://www.linkedin.com/in/lucasalvesvs/" target="_blank">
-  <img align="center" src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/linkedin-1.png" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/alvesvs.lucas" target="_blank">
- <img align="center" src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/instagram-1.png" alt="instagram"/>
-</a>
+## 📊 GitHub Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvesvslucas&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesvslucas&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top languages" />
 </p>
 
-<!--
+---
 
-<img width="490em" src="" />
+## 📬 Contato
 
-
-<!---
-alvesvslucas/alvesvslucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://codepen.io/alvesvslucas" target="_blank" title="CodePen">
+    <img src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/ped.png" alt="CodePen" width="32" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/lucasalvesvs" target="_blank" title="LinkedIn">
+    <img src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/linkedin-1.png" alt="LinkedIn" width="32" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/alvesvs.lucas" target="_blank" title="Instagram">
+    <img src="https://verdadepresente.com.br/site/wp-content/uploads/2024/05/instagram-1.png" alt="Instagram" width="32" />
+  </a>
+</p>
