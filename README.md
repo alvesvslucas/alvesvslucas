@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH0gife5WMxmQ/profile-displaybackgroundimage-shrink_350_1400/B4DZkpOvVGJMAY-/0/1757333355935?e=1759968000&v=beta&t=6Q6ycFYiPUdcE9N6-nC27guA0c8L6vjspvsv2R9P_KQ" alt="Lucas Alves" width="120" style="border-radius:50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH0gife5WMxmQ/profile-displaybackgroundimage-shrink_350_1400/B4DZkpOvVGJMAY-/0/1757333355935?e=1759968000&v=beta&t=6Q6ycFYiPUdcE9N6-nC27guA0c8L6vjspvsv2R9P_KQ" alt="Lucas Alves" style="border-radius:50%;" />
   <h1>Olá, eu sou o Lucas Alves 👋</h1>
   <p>🔭 Desenvolvedor web | Frontend Developer • Git • GitHub • SQL • Python • HTML5 • CSS3 • JavaScript • PHP • WordPress • Bootstrap  • Sempre aprendendo e ajudando</p>
 </div>
