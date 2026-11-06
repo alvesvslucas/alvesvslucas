@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Lucas Alves 👋</h1>
 
-<h3 align="center">Full Stack Developer • Desenvolvimento de Sistemas</h3>
+<h3 align="center">Full Stack Developer • PHP, MySQL e JavaScript</h3>
 
 <p align="center">
   Desenvolvimento de sistemas web, APIs, dashboards, automações e soluções corporativas.
@@ -39,13 +39,20 @@ Tenho foco especial em:
 
 | Projeto | O que explorar | Tecnologias |
 | --- | --- | --- |
-| [Portfólio profissional](https://github.com/alvesvslucas/portifolio#readme) | Apresentação profissional, navegação e interações da página | HTML, CSS e JavaScript |
+| [Catálogo com React e Next.js](https://github.com/alvesvslucas/Mundo2-Nivel3-Estacio#readme) | Componentes, formulários, API interna e modos de demonstração — projeto acadêmico com CI | React, Next.js e TypeScript |
+| [Portfólio profissional](https://github.com/alvesvslucas/portifolio#readme) | Apresentação profissional, projetos, contatos e verificações estáticas | HTML, CSS e JavaScript |
 | [Catálogo de livros Full Stack](https://github.com/alvesvslucas/Nivel-5-Mundo-2#readme) | API de livros e clientes em diferentes frameworks — projeto acadêmico | Express, MongoDB, React, Next.js e Angular |
-| [Catálogo com React e Next.js](https://github.com/alvesvslucas/Mundo2-Nivel3-Estacio#readme) | Componentes, navegação e API interna — projeto acadêmico | React, Next.js e TypeScript |
 | [Aplicativo de viagens](https://github.com/alvesvslucas/Trabalho-Pr-tico-DGT2812-Estacio#readme) | Interface móvel com ações de telefone, mapa e compartilhamento — projeto acadêmico | Flutter e Dart |
 | [Cardápio Digital](https://github.com/alvesvslucas/Cardapiodigital#readme) | Página de pizzaria desenvolvida como atividade de formação | HTML e CSS |
 
-Cada repositório apresenta seu objetivo, estrutura, instruções disponíveis de execução e escopo.
+Os projetos destacados têm documentação de objetivo, tecnologias, execução e limites. Os exercícios acadêmicos estão identificados acima.
+
+### Verificações disponíveis
+
+- **[Catálogo Next.js — testes e CI](https://github.com/alvesvslucas/Mundo2-Nivel3-Estacio/actions/workflows/catalogo-next.yml):** testes de handlers, controles e armazenamento; instalação pelo lockfile; builds e verificações HTTP dos modos API e demonstração.
+- **[Portfólio — verificação estática](https://github.com/alvesvslucas/portifolio/actions/workflows/static-check.yml):** sintaxe JavaScript, recursos locais, âncoras e consistência dos contatos.
+
+As verificações automatizadas cobrem esses cenários; os READMEs descrevem os limites de cada projeto.
 
 ---
 
