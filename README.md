@@ -40,9 +40,12 @@ Tenho foco especial em:
 | Projeto | O que explorar | Tecnologias |
 | --- | --- | --- |
 | [Portfólio profissional](https://github.com/alvesvslucas/portifolio#readme) | Apresentação profissional, navegação e interações da página | HTML, CSS e JavaScript |
+| [Catálogo de livros Full Stack](https://github.com/alvesvslucas/Nivel-5-Mundo-2#readme) | API de livros e clientes em diferentes frameworks — projeto acadêmico | Express, MongoDB, React, Next.js e Angular |
+| [Catálogo com React e Next.js](https://github.com/alvesvslucas/Mundo2-Nivel3-Estacio#readme) | Componentes, navegação e API interna — projeto acadêmico | React, Next.js e TypeScript |
+| [Aplicativo de viagens](https://github.com/alvesvslucas/Trabalho-Pr-tico-DGT2812-Estacio#readme) | Interface móvel com ações de telefone, mapa e compartilhamento — projeto acadêmico | Flutter e Dart |
 | [Cardápio Digital](https://github.com/alvesvslucas/Cardapiodigital#readme) | Página de pizzaria desenvolvida como atividade de formação | HTML e CSS |
 
-Os repositórios incluem apresentação do projeto e instruções para visualização local.
+Cada repositório apresenta seu objetivo, estrutura, instruções disponíveis de execução e escopo.
 
 ---
 
