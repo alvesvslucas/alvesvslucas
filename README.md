@@ -79,6 +79,19 @@ Tenho foco especial em:
 
 ---
 
+## 📂 Projetos públicos
+
+Conheça alguns projetos disponíveis para explorar:
+
+- [Portfólio profissional](https://github.com/alvesvslucas/portifolio) — página de apresentação e trabalhos.
+- [Controle de Ativos](https://github.com/alvesvslucas/ControleAtivos) — projeto de controle de ativos de TI.
+- [Cardápio Digital](https://github.com/alvesvslucas/Cardapiodigital) — projeto web desenvolvido durante formação em Full Stack.
+- [CRM Dash](https://github.com/alvesvslucas/CRM_DASH) — projeto com acesso por página de login.
+
+Projetos corporativos e outras experiências podem estar em repositórios privados.
+
+---
+
 ## 🎯 Áreas de estudo e evolução
 
 Atualmente aprofundando conhecimentos em:
