@@ -35,6 +35,17 @@ Tenho foco especial em:
 
 ---
 
+## 📂 Projetos públicos
+
+| Projeto | O que explorar | Tecnologias |
+| --- | --- | --- |
+| [Portfólio profissional](https://github.com/alvesvslucas/portifolio#readme) | Apresentação profissional, navegação e interações da página | HTML, CSS e JavaScript |
+| [Cardápio Digital](https://github.com/alvesvslucas/Cardapiodigital#readme) | Página de pizzaria desenvolvida como atividade de formação | HTML e CSS |
+
+Os repositórios incluem apresentação do projeto e instruções para visualização local.
+
+---
+
 ## 🚀 Stack principal
 
 ### Back-end
@@ -76,17 +87,6 @@ Tenho foco especial em:
 - Automações de processos
 - Aplicações responsivas
 - Soluções integradas com bancos de dados
-
----
-
-## 📂 Projetos públicos
-
-Conheça alguns projetos disponíveis para explorar:
-
-- [Portfólio profissional](https://github.com/alvesvslucas/portifolio) — página de apresentação e trabalhos.
-- [Cardápio Digital](https://github.com/alvesvslucas/Cardapiodigital) — projeto web desenvolvido durante formação em Full Stack.
-
-Projetos corporativos e outras experiências podem estar em repositórios privados.
 
 ---
 
